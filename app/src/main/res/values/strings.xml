@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculando combustivel</string>
+    <string name="preencher_todos_os_Campos">Preencha todos os campos!</string>
+    <string name="formatação_de_números_flutuantes">%.2f</string>
+</resources>
